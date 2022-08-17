@@ -1,7 +1,4 @@
 
-<img src="https://drive.google.com/uc?id=1GkjZ9W02VQp4w4a4wA70NwRxDcwJJjWd" width="250" height="250" allow="autoplay"></img>
-
-
 # Automatic Multimodal Brain Tumor Segmentation using Deep Convolutional Neural Networks
 ## Contributors:
 Mohit Kumar Meena (213070021)* \
